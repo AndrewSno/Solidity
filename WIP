@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 /**
- * Andrew
+ * Andrew Snow
  * This contract example contains the minimum number of functions required for the token to work.
  * Contract SimpleToken: Read: _decimals, decimals, _name, name, _symbol, symbol, allowance, balanceOf, totalSupply; Write:  transfer, transferFrom, approve, decreaseAllowance, increaseAllowance.
  * Contract Ownable: Read: getOwner, owner; Write:  onlyOwner: renounceOwnership, transferOwnership.
